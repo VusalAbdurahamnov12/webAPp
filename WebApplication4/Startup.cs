@@ -48,6 +48,7 @@ namespace WebApplication4
             {
                endpoints.MapDefaultControllerRoute();
             });
+
         }
     }
 }
