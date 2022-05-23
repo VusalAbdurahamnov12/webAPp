@@ -15,9 +15,9 @@ namespace WebApplication4.Controllers
         }
         public IActionResult Index()
         {
-            //List<Slider> sliders = _contexct.Sliders.ToList();
-            //return View(sliders);
-            return View();
+            List<Slider> sliders = _contexct.Sliders.ToList();
+            return View(sliders);
+            //return View();
         }
         public IActionResult Contact()
         {

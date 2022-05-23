@@ -292,3 +292,8 @@ C:\Users\Administrator\Desktop\webAPp\WebApplication4\obj\Debug\netcoreapp3.1\Ra
 C:\Users\Administrator\Desktop\webAPp\WebApplication4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Category.cshtml.g.cs
 C:\Users\Administrator\Desktop\webAPp\WebApplication4\obj\Debug\netcoreapp3.1\Razor\Views\Product_\Product.cshtml.g.cs
 C:\Users\Administrator\Desktop\webAPp\WebApplication4\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Blog.cshtml.g.cs
+E:\homework\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Blog.cshtml.g.cs
+E:\homework\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Category.cshtml.g.cs
+E:\homework\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+E:\homework\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\Razor\Views\Blog\BlogDetails.cshtml.g.cs
+E:\homework\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\Razor\Views\Product_\Product.cshtml.g.cs
